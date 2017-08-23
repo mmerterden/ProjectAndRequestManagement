@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRM.Web", "PRM.Web\PRM.Web.csproj", "{1BE8DA70-4DFD-4F7B-AEC1-1424A437D1AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRM.DataLayer", "PRM.DataLayer\PRM.DataLayer.csproj", "{AB4EAACF-2AF1-4BF2-8A51-3E6DAE15A67E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BE8DA70-4DFD-4F7B-AEC1-1424A437D1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE8DA70-4DFD-4F7B-AEC1-1424A437D1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE8DA70-4DFD-4F7B-AEC1-1424A437D1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE8DA70-4DFD-4F7B-AEC1-1424A437D1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB4EAACF-2AF1-4BF2-8A51-3E6DAE15A67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4EAACF-2AF1-4BF2-8A51-3E6DAE15A67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4EAACF-2AF1-4BF2-8A51-3E6DAE15A67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4EAACF-2AF1-4BF2-8A51-3E6DAE15A67E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

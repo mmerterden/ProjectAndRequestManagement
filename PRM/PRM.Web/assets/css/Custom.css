@@ -1,0 +1,171 @@
+﻿/* lato-regular - latin_latin-ext */
+@font-face {
+    font-family: sans-serif !important;
+}
+
+body {
+    font-family: sans-serif !important;
+}
+
+.login-form h2.login-form-heading {
+    font-family: sans-serif !important;
+}
+
+.login-form .checkbox {
+    font-family: sans-serif !important;
+}
+
+.login-form .btn-login {
+    font-family: sans-serif !important;
+}
+
+.badge.bg-important {
+    font-family: sans-serif !important;
+}
+
+.modal-header h4.modal-title {
+    font-family: sans-serif !important;
+}
+
+.MR33 {
+    margin-right: 93px !important;
+}
+
+.W50 {
+    height: 100px !important;
+}
+
+.modal-body label {
+    font-family: sans-serif !important;
+}
+
+.tagsinput input {
+    font-family: sans-serif !important;
+}
+
+.daterangepicker .calendar th, .daterangepicker .calendar td {
+    font-family: sans-serif !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family: sans-serif !important;
+}
+
+.MT20 {
+    margin-top: 20px !important;
+}
+
+.MT100 {
+    padding: 100px !important;
+}
+
+.MT10 {
+    margin-top: 4px !important;
+    font-size: medium !important;
+}
+
+.MT5 {
+    margin-top: 5px;
+}
+
+.TA-L {
+    text-align: left !important;
+}
+
+.TA-R {
+    text-align: right !important;
+}
+
+.MT25 {
+    margin-right: 25px !important;
+}
+
+.MR-8 {
+    margin-right: 94px !important;
+}
+
+.no-margin {
+    margin: 0px !important;
+}
+
+.no-padding {
+    padding: 0px !important;
+}
+
+.WHM {
+    margin: 0px !important;
+    width: 1026px !important;
+    height: 122px !important;
+}
+
+.MR32 {
+    margin-right: 32px !important;
+}
+
+.PT5 {
+    padding-top: 5px !important;
+}
+
+.PT10 {
+    padding: 10px !important;
+}
+
+.FNT10 {
+    font-size: 11px !important;
+}
+
+.MR6 {
+    margin-right: 28px !important;
+}
+
+.FS12 {
+    font-size: 12px !important;
+}
+
+.MR107 {
+    margin-right: 113px !important;
+}
+
+.MR57 {
+    margin-right: 120px !important;
+}
+
+.MR41 {
+    margin-right: 58px !important;
+}
+
+.MMFR {
+    max-width: 75%;
+    min-width: 60%;
+    float: right;
+}
+
+.MMFL {
+    max-width: 75%;
+    min-width: 60%;
+    float: left;
+}
+.FS13{
+   font-size: 13px !important;
+}
+
+.MR11{
+    margin-right: 58px !important;
+}
+.MR65{
+    margin-left: 69px !important;
+}
+.MR93{
+    margin-right:93px !important;
+}
